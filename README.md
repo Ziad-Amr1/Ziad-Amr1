@@ -5,9 +5,17 @@ Frontend Developer • UI-focused • React & Tailwind
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ziadamrsaid">LinkedIn</a> •
-  <a href="https://ziad-amr-portfolio.netlify.app/">Portfolio</a>
+  <a href="https://ziad-amr-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/ziadamrsaid">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Ziad-Amr1">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+  </a>
 </p>
+
 
 ---
 
