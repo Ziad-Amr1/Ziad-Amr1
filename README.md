@@ -1,3 +1,4 @@
+<img src="./assets/banner.png" alt="Ziad Amr Banner" />
 <h2 align="center">Hi, I'm Ziad Amr 👋</h2>
 <p align="center">
 Frontend Developer • UI-focused • React & Tailwind
