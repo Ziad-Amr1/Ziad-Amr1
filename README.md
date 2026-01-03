@@ -31,20 +31,19 @@ I also have a backend and automation background, which helps me understand data 
 - **BIM AI Agent (Revit + MCP)**  
   Experimental project exploring BIM data interaction by connecting Revit models with AI workflows using a Model Context Protocol (MCP).  
   Focuses on structured model data, automation, and engineering-oriented problem solving.  
-  https://github.com/Ziad-Amr1/bim-ai-agent
+  [View the repo](https://github.com/Ziad-Amr1/bim-ai-agent)
 
 - **LumoHub**  
   Web project focused on building a structured frontend layout with reusable components and clean UI organization.  
-  https://github.com/Ziad-Amr1/LumoHub
+  [View the repo](https://github.com/Ziad-Amr1/LumoHub)
 
 - **Level Up Website**  
   Responsive website built to practice layout structure, component separation, and modern UI patterns.  
-  https://github.com/Ziad-Amr1/Level-Up-Website
+  [View the repo](https://github.com/Ziad-Amr1/Level-Up-Website)
 
 - **Gaming Website**  
   Frontend-focused project emphasizing visual layout, responsiveness, and interactive UI elements.  
-  https://github.com/Ziad-Amr1/Gaming-Website
-
+  [View the repo](https://github.com/Ziad-Amr1/Gaming-Website)
 
 ---
 
