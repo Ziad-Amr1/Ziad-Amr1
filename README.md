@@ -27,15 +27,24 @@ I also have a backend and automation background, which helps me understand data 
 ---
 
 ### Featured Projects
-- **Portfolio Website**  
-  Personal portfolio built with React and Tailwind, focused on clean layout, responsiveness, and UI consistency.  
-  [Live Demo](https://ziad-amr-portfolio.netlify.app/)
 
-- **Responsive Navbar Component**  
-  Custom navbar with mobile sidebar, theme toggle, and smooth UI interactions.
+- **BIM AI Agent (Revit + MCP)**  
+  Experimental project exploring BIM data interaction by connecting Revit models with AI workflows using a Model Context Protocol (MCP).  
+  Focuses on structured model data, automation, and engineering-oriented problem solving.  
+  https://github.com/Ziad-Amr1/bim-ai-agent
 
-- **BIM – Revit Integration (MCP-based)**  
-  Experimental project exploring BIM data workflows by connecting Revit models with AI systems using a Model Context Protocol (MCP), focusing on structured model data rather than raw files.
+- **LumoHub**  
+  Web project focused on building a structured frontend layout with reusable components and clean UI organization.  
+  https://github.com/Ziad-Amr1/LumoHub
+
+- **Level Up Website**  
+  Responsive website built to practice layout structure, component separation, and modern UI patterns.  
+  https://github.com/Ziad-Amr1/Level-Up-Website
+
+- **Gaming Website**  
+  Frontend-focused project emphasizing visual layout, responsiveness, and interactive UI elements.  
+  https://github.com/Ziad-Amr1/Gaming-Website
+
 
 ---
 
