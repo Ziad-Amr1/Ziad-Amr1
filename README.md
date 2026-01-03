@@ -11,16 +11,17 @@ Frontend Developer • UI-focused • React & Tailwind
 ---
 
 ### About Me
-I'm a frontend developer with a strong focus on clean UI, responsive layouts, and logical component structure.
-I enjoy working on the details that make interfaces feel consistent and intuitive.
-Alongside frontend work, I have experience with Python and data-oriented workflows, which helps me approach problems analytically.
+I'm a frontend developer focused on building clean, responsive interfaces with strong attention to layout logic and UI details.
+I enjoy working on component structure, spacing, and visual consistency.
+I also have a backend and automation background, which helps me understand data flow, APIs, and system-level thinking.
 
 ---
 
 ### Tech Stack
-- **Frontend:** React, JavaScript (ES6+), HTML, CSS  
-- **Styling:** Tailwind CSS  
-- **Programming:** Python  
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React  
+- **Styling:** Tailwind CSS, Bootstrap  
+- **Backend (Background):** Node.js (basics)  
+- **Programming & Automation:** Python  
 - **Tools:** Git, GitHub, Vite  
 
 ---
@@ -34,15 +35,16 @@ Alongside frontend work, I have experience with Python and data-oriented workflo
   Custom navbar with mobile sidebar, theme toggle, and smooth UI interactions.
 
 - **BIM – Revit Integration (MCP-based)**  
-  Experimental project exploring the integration between BIM models in Revit and AI workflows using a Model Context Protocol (MCP), focusing on structured model data rather than raw files.
+  Experimental project exploring BIM data workflows by connecting Revit models with AI systems using a Model Context Protocol (MCP), focusing on structured model data rather than raw files.
 
 ---
 
 ### Interests & Background
-- UI architecture and component design  
+- UI architecture and component-based design  
 - Improving UX through spacing, alignment, and hierarchy  
-- Python-based tooling and data-oriented problem solving  
-- Exploring the intersection between software development and BIM workflows  
+- Frontend–backend interaction and data flow awareness  
+- Python-based automation and data-oriented problem solving  
+- Exploring the intersection of software development and BIM workflows  
 
 ---
 
